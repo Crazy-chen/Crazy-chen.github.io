@@ -1,22 +1,22 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Just Here                  
+SEOTitle: 陈敏的博客 | Right Here
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+email: minchen708@gmail.com
+description: "First say to yourself what you would be, and then do what you have to do."
+keyword: "Right, Right Here, 陈敏的博客, chenminmin, 陈敏, Web"
+url: "http://crazy-chen.github.io"          # my host, for absolute URL
+baseurl: ""      # for example, '/blog' if my blog hosted on 'host/blog'
+github_repo: "https://github.com/Crazy-chen/Crazy-chen.github.io.git" # my code repository
 
-# Sidebar settings
+# Sidebar settings 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "The useless men are those who never change with the years."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
-# SNS settings
+# SNS settings 
 RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     qiubaiying
